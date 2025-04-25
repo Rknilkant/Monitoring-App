@@ -34,6 +34,10 @@ Welcome to the `demo-app` â€“ a lightweight monitoring stack built in **Go** ğŸ
 
 1. Clone the Repository
 
+```bash
+https://github.com/Rknilkant/Monitoring-App.git
+
+```
 
 ## Deployment
 
