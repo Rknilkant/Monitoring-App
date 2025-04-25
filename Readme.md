@@ -28,7 +28,7 @@ Welcome to the `demo-app` – a lightweight monitoring stack built in **Go** �
     ├── prometheus.yml           # Prometheus scrape config
     └── grafana.yml              # Grafana datasource provisioning
 
-
+```
 
 ## 🛠 Installation Guide
 
@@ -36,7 +36,6 @@ Welcome to the `demo-app` – a lightweight monitoring stack built in **Go** �
 
 ```bash
 https://github.com/Rknilkant/Monitoring-App.git
-
 ```
 
 ## Deployment
@@ -139,3 +138,14 @@ go mod tidy
 go run main.go
 
 ```
+
+## Run With Docker-Compose
+
+```bash
+docker compose up
+```
+Or
+```bash
+docker compose up --build
+```
+
